@@ -77,11 +77,6 @@ GEM
     crass (1.0.6)
     diff-lcs (1.5.0)
     erubi (1.10.0)
-    factory_girl (4.9.0)
-      activesupport (>= 3.0.0)
-    factory_girl_rails (4.9.0)
-      factory_girl (~> 4.9.0)
-      railties (>= 3.0.0)
     faker (2.20.0)
       i18n (>= 1.8.11, < 2)
     ffi (1.15.5)
@@ -231,7 +226,6 @@ DEPENDENCIES
   bootsnap (>= 1.4.2)
   byebug
   capybara (>= 2.15)
-  factory_girl_rails
   faker
   jbuilder (~> 2.7)
   listen (~> 3.2)
